@@ -16,6 +16,4 @@ your project.
 
  ## Welcome to Math Ulility Repository. This repo offers various math methods used as a helper for your project.
  
- ### You will find in this repo the following stuff:
-
->>>>>>> 71cf351926221dfbbf7c49c3d7bcfffff29c2ef5
+ 
