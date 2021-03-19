@@ -1,3 +1,4 @@
+
 ## Welcome to Math Ulility Repository. This repo offers various math methods used as a helper for
 your project.
 
@@ -12,3 +13,9 @@ your project.
 [My email(mailto: nguyenhuutoan05697@gmail.com)
 
 © 2021 huu.toan.nguyen
+
+ ## Welcome to Math Ulility Repository. This repo offers various math methods used as a helper for your project.
+ 
+ ### You will find in this repo the following stuff:
+
+>>>>>>> 71cf351926221dfbbf7c49c3d7bcfffff29c2ef5
