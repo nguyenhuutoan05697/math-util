@@ -10,7 +10,7 @@ your project.
 
 #### Connect me via
 [My Facebook](https://www.facebook.com/kind.master.73/)
-[My email(mailto: nguyenhuutoan05697@gmail.com)
+[My email](mailto: nguyenhuutoan05697@gmail.com)
 
 © 2021 huu.toan.nguyen
 
