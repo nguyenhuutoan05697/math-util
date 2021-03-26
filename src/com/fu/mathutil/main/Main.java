@@ -32,7 +32,7 @@ public class Main {
         expected = 1; // hi vọng nhận về 1
         actual = MathUtility.getFactorial(n);// còn thực tế là
         //dùng mắt để luận kết quả again
-        System.out.println("5!: Expected: "+ expected + "; Actual: "+ actual);
+        System.out.println("0!: Expected: "+ expected + "; Actual: "+ actual);
         
         
         
